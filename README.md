@@ -1,6 +1,6 @@
  IaC, Cloud Knowledge, and Reliability.
 
- The Folder Structure
+The Folder Structure
 
 my-terraform-project/
 ├── modules/
